@@ -2,7 +2,7 @@
 
 [Pygments](http://pygments.org/) is a Python syntax highlighter that was previously used everywhere on GitHub. It is still used for GitHub Jupyter Notebook pages and the API pages.
 
-A [demo](index.html) of the original Pygments styles prepared for GitHub has been included.
+A [demo](https://stylishthemes.github.io/Syntax-Themes/pygments/) of the original Pygments styles prepared for GitHub has been included.
 
 ## Folders
 
