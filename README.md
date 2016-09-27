@@ -1,6 +1,6 @@
 # Syntax Highlighting themes
 
-This repository contains syntax highlighting themes and links that have been collected through the years while searching for themes that could be converted into something useable on GitHub.
+This repository contains syntax highlighting themes and links that have been collected through the years while searching for themes that could be converted into something usable on GitHub.
 
 All of these themes should retain their original license. If none is provided, a link to the source has been included.
 
