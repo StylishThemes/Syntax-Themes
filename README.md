@@ -1,3 +1,5 @@
+**Retired:** the syntax themes are built into [GitHub Dark](https://github.com/StylishThemes/GitHub-Dark) now.
+
 # Syntax Highlighting themes
 
 This repository contains syntax highlighting themes and links that have been collected through the years while searching for themes that could be converted into something usable on GitHub.
